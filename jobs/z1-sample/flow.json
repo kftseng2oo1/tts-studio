@@ -1,0 +1,8 @@
+{
+ "type": "z1-flow",
+ "version": 1,
+ "url": "https://kftseng2oo1.github.io/z1/",
+ "input": {"solarY": 1966, "solarM": 12, "solarD": 1, "hour": 6, "gender": "M", "flowYear": 2026, "name": "範例"},
+ "voice": "zh-TW-HsiaoChenNeural",
+ "rate": "+0%"
+}
